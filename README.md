@@ -8,4 +8,4 @@ There we learnt about our department, modules and faculty etc.
 Topics Covered:
 
 •Difference between Linux and Windows OS
-Linux vs Windows - Basic Differences
+# Linux vs Windows - Basic Differences
