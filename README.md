@@ -9,4 +9,3 @@ Topics Covered:
 
 •Difference between Linux and Windows OS
 # Linux vs Windows - Basic Differences
-|jdbsk|hdbsj|
